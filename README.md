@@ -1,4 +1,4 @@
-# styletransfer_bot
+# styletransfer-bot
 
 ## Чтобы запустить: 
 ```bash
