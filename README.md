@@ -4,7 +4,7 @@
 ```bash
 git clone https://github.com/Szirx/styletransfer_bot.git
 cd styletransfer_bot
-docker build -t styletransferbot
+docker build -t styletransferbot .
 docker run -d styletransferbot
 ```
 
